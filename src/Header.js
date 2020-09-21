@@ -8,8 +8,6 @@ function Header() {
 
     const [{user}, dispatch] = useDataLayerValue();
 
-
-
     return (
         <div className="header">
             <div className="header__left">
