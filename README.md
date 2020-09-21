@@ -1,3 +1,8 @@
+
+![spotify-clone-demo](https://user-images.githubusercontent.com/31301266/93824742-8f194480-fc81-11ea-97af-332ae7c30236.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
